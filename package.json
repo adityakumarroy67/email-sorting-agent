@@ -1,0 +1,10 @@
+{
+  "name": "email-triage-agent-demo",
+  "version": "0.1.0",
+  "private": true,
+  "description": "AI email triage and voice approval agent - portfolio demo by Midnight Softwares",
+  "scripts": {
+    "samples": "node scripts/make-samples.js",
+    "test": "node scripts/check.js"
+  }
+}

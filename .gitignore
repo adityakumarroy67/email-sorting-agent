@@ -1,0 +1,15 @@
+# Secrets - never commit these
+.clasprc.json
+.clasp.json
+.env
+.env.*
+*.key
+
+# Node / tooling
+node_modules/
+.vercel/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
